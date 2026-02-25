@@ -1,7 +1,7 @@
 print("Choisir 2 nombres :")
 
-a= int(input(" a = "))
-b= int(input(" b = "))
+a= float(input(" a = "))
+b= float(input(" b = "))
 
 op = input("Choisire une opereation d'apres chiffre: (1. Addition/ 2. Soustraction/ 3. Multiplication/ 4.Division) :  ")
 
@@ -9,7 +9,7 @@ resultat = 0
 
 match op :
     case "1" :
-        # better than adding another var
+        # better than adding another var to stock the results
         print(f"{a} + {b} = {a + b}")
 
     case "2" :
