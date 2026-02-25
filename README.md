@@ -41,3 +41,6 @@ Le dossier `exemples_cours/` contient tous les exemples fournis par Mme Ahsain S
 - Structures conditionnelles
 - Boucles (while et for)
 - Programmes interactifs
+
+## Lien GitHub : https://github.com/nourmiyy03/Python-exo1
+
